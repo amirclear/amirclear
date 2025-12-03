@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://tenor.com/view/kawaii-kawaii-shy-anime-anime-shy-kemonomimi-gif-17722682899754132605" alt="GIF">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/amir-hosein-panjeh-178289337/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:amirhoseinpanjeh878@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
