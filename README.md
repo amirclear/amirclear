@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/kawaii-kawaii-shy-anime-anime-shy-kemonomimi-gif-17722682899754132605" alt="GIF">
+  <img src="lop.gif" height = 200 alt="GIF">
 </p>
 
 <p align="center">
