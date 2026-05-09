@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amir! </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Scientist;Open+Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ai+Engineer;Data+Scientist;Research+Assitant" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
   <a href="mailto:amirhoseinpanjeh878@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="lop.gif" width="250" alt="lop gif"/>
-</p>
+# #<p align="center">
+#  <img src="lop.gif" width="250" alt="lop gif"/>
+# </p>
 
 ## Technology Stack
 
