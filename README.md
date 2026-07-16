@@ -54,22 +54,6 @@
 </p>
 
 ---
-
-### 📌 Featured Projects
-<!--
-Replace these with your own repos. Format:
-- [Project Name](https://github.com/amirclear/repo-name) — one-line description of what it does and what you used.
--->
-- [Project One](https://github.com/amirclear/project-one) — short description of the project and tech stack used
-- [Project Two](https://github.com/amirclear/project-two) — short description of the project and tech stack used
-- [Project Three](https://github.com/amirclear/project-three) — short description of the project and tech stack used
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amirclear.amirclear" alt="Visitor Badge">
-</p>
-
 <p align="center">
   <strong>Thanks for visiting! Don't forget to star ⭐ repositories you find interesting.</strong>
 </p>
