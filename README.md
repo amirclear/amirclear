@@ -11,6 +11,14 @@
 - 🔭 Currently working on AI / Data Science projects, building models and data pipelines
 - 🌱 Continuously learning new tools in Generative Models
 ---
+
+ ## My Projects
+
+ ### 🧠 Generative Models
+ - [Diffusion vs GANs](https://github.com/amirclear/DDPM-vs-GANs)
+
+ ---
+ 
 ### 🤖 AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
