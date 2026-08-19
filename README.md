@@ -17,6 +17,8 @@
  ### 🧠 Generative Models
  - [Diffusion vs GANs](https://github.com/amirclear/DDPM-vs-GANs)
 
+ ## Automatic Speech Recognition (ASR) 
+- [Persian Automatic Speech Recognition using Whisper Fine-tuning]
  ---
  
 ### 🤖 AI & Data Science
