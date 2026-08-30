@@ -16,8 +16,7 @@
 
  ###  Generative Models
  - [Diffusion vs GANs](https://github.com/amirclear/DDPM-vs-GANs)
-   
- ## Natural Language Processing (NLP)
+ ### Natural Language Processing (NLP)
  - [Transformer from Scratch: Implementing "Attention Is All You Need"](https://github.com/amirclear/Transformer-from-scratch)
    
  ---
