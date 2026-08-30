@@ -14,11 +14,11 @@
 
  ## My Projects
 
- ### 🧠 Generative Models
+ ###  Generative Models
  - [Diffusion vs GANs](https://github.com/amirclear/DDPM-vs-GANs)
    
- ## Automatic Speech Recognition (ASR) 
- - [Persian Automatic Speech Recognition using Whisper Fine-tuning](https://github.com/amirclear/Persian-Automatic-Speech-Recognition-using-Whisper-Fine-tuning)
+ ## Natural Language Processing (NLP)
+ - [Transformer from Scratch: Implementing "Attention Is All You Need"](https://github.com/amirclear/Transformer-from-scratch)
    
  ---
  
